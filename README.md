@@ -4,6 +4,7 @@
 <img src="SystemCode/clips/static/hdb-bto.png"
      style="float: left; margin-right: 0px;" />
 
+[![Aegis AI Logo](https://github.com/DesmondChoy/mtech-policy-recsys/blob/e9aa2d7457650b1c6f675494213e18a724735b60/data/architecture.jpg)]
 ---
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
@@ -34,10 +35,13 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 
 # SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+## Promotion Video
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+[![Aegis AI Promotion Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+
+## System Video
+
+[![Aegis AI System Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
 ---
 
@@ -223,8 +227,18 @@ python scripts/run_recsys_demo.py --scenario <scenario_name>
 
 `Refer to Github Folder: Miscellaneous`
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+To objectively assess the performance and reliability of the implemented recommendation system, a quantitative evaluation framework was established. This framework focuses on two key aspects: the correctness of the final policy recommendation for specific, challenging scenarios, and the granular coverage of individual customer requirements by the recommended policy. 
+
+### Scenario-Based Recommendation Evaluation
+
+This evaluation assesses the system's ability to recommend the correct final policy (or one of a set of acceptable policies) for predefined test scenarios, each designed to probe specific coverage nuances or complex requirement combinations. The system was tested against four distinct scenarios (golf_coverage, pet_care_coverage, public_transport_double_cover, uncovered_cancellation_reason), each with 20 generated customer cases.
+
+The results can be found here: SystemCode\data\evaluation\scenario_evaluation\scenario_evaluation_results.md
+
+### Ground Truth Coverage Evaluation
+
+Beyond evaluating the final recommendation correctness, this evaluation assesses how well the recommended policy covers the individual requirements extracted from the customer transcript. This provides a more granular measure of the recommendation's quality and alignment with specific user needs. The evaluation uses an EmbeddingMatcher to compare extracted requirements against a curated ground truth knowledge base (`data/ground_truth/ground_truth.json`) defining which requirements are covered by which policy tiers.
+
+The results can be found here: SystemCode\data\evaluation\ground_truth_evaluation\coverage_evaluation_summary.md
 
 ---
