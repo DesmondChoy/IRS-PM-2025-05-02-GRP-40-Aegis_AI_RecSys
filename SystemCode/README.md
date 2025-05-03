@@ -47,12 +47,12 @@ Follow these steps to set up the project environment for running the backend scr
     source venv/bin/activate
     ```
 
-Once the virtual environment is activated, install the Python dependencies:
+3.  **Once the virtual environment is activated, install the Python dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Set Up API Keys**:
+4.  **Set Up API Keys**:
     Create a `.env` file in the project root and add your API keys required for LLM interactions:
     ```dotenv
     GOOGLE_API_KEY="your_google_api_key_here"
@@ -65,7 +65,7 @@ Once the virtual environment is activated, install the Python dependencies:
 
 
 
-4.  **Install Node.js Dependencies (Optional - for Local Frontend Development)**:
+5.  **Install Node.js Dependencies (Optional - for Local Frontend Development)**:
     This project includes a frontend web application component (`ux-webapp/`). **This step is optional** as the application is already deployed and accessible online (see "Online Access" section below).
 
     If you wish to run or develop the frontend *locally*, navigate to the `ux-webapp/` directory and install the required Node.js dependencies:
