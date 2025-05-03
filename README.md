@@ -24,7 +24,7 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Choy Yong Yi Desmond | A0315402W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0315402W@nus.edu.sg |
+| Choy Yong Yi Desmond | A0315402W | - Project Manager<br>- System Design<br>- System Development & Implementation (Lead)<br>- Front-end UI webapp<br>- Project Report | A0315402W@nus.edu.sg |
 | Kenny Lau Jia Xu | A0179912U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0179912U@nus.edu.sg |
 | Kevin Manuel | A0315373H | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0315373H@nus.edu.sg |
 | Soon Fu Meng | A0140502B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0140502B@nus.edu.sg |
@@ -35,11 +35,11 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 
 ## Promotion Video
 
-[![Aegis AI Promotion Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Aegis AI Promotion Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Aegis AI Promotion Video")
 
 ## System Video
 
-[![Aegis AI System Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Aegis AI System Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Aegis AI Promotion Video")
 
 ---
 
@@ -231,12 +231,12 @@ To objectively assess the performance and reliability of the implemented recomme
 
 This evaluation assesses the system's ability to recommend the correct final policy (or one of a set of acceptable policies) for predefined test scenarios, each designed to probe specific coverage nuances or complex requirement combinations. The system was tested against four distinct scenarios (golf_coverage, pet_care_coverage, public_transport_double_cover, uncovered_cancellation_reason), each with 20 generated customer cases.
 
-The results can be found here: SystemCode\data\evaluation\scenario_evaluation\scenario_evaluation_results.md
+The results can be found here: Miscellaneous\scenario_evaluation_results.md
 
 ### Ground Truth Coverage Evaluation
 
 Beyond evaluating the final recommendation correctness, this evaluation assesses how well the recommended policy covers the individual requirements extracted from the customer transcript. This provides a more granular measure of the recommendation's quality and alignment with specific user needs. The evaluation uses an EmbeddingMatcher to compare extracted requirements against a curated ground truth knowledge base (`data/ground_truth/ground_truth.json`) defining which requirements are covered by which policy tiers.
 
-The results can be found here: SystemCode\data\evaluation\ground_truth_evaluation\coverage_evaluation_summary.md
+The results can be found here: Miscellaneous\coverage_evaluation_summary.md
 
 ---
