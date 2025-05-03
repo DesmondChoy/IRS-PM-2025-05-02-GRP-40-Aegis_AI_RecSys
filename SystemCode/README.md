@@ -14,8 +14,8 @@ Follow these steps to set up the project environment for running the backend scr
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/DesmondChoy/mtech-policy-recsys
-    cd mtech-policy-recsys
+    git clone https://github.com/DesmondChoy/IRS-PM-2025-05-02-GRP-40-Aegis_AI_RecSys.git
+    cd .\IRS-PM-2025-05-02-GRP-40-Aegis_AI_RecSys\SystemCode\
     ```
 
 2.  **Set Up Python Environment**:
