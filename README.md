@@ -24,10 +24,10 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Choy Yong Yi Desmond | A0315402W | - Project Manager<br>- System Design<br>- System Development & Implementation (Lead)<br>- Front-end UI webapp<br>- Project Report | A0315402W@nus.edu.sg |
-| Kenny Lau Jia Xu | A0179912U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0179912U@nus.edu.sg |
-| Kevin Manuel | A0315373H | - System Design<br>- System Development & Implementation<br>- Video (System)| A0315373H@nus.edu.sg |
-| Soon Fu Meng | A0140502B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0140502B@nus.edu.sg |
+| Choy Yong Yi Desmond | A0315402W | - Project Manager<br>- System Design<br>- System Development & Implementation (Lead)<br>- Front-end UI webapp<br>- Project Report | e1510259@u.nus.edu |
+| Kenny Lau Jia Xu | A0179912U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0271067@u.nus.edu |
+| Kevin Manuel | A0315373H | - System Design<br>- System Development & Implementation<br>- Video (System)| e1509812@u.nus.edu |
+| Soon Fu Meng | A0140502B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| fumengsoon@u.nus.edu |
 
 ---
 
