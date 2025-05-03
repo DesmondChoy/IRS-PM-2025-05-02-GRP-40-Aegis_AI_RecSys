@@ -1,10 +1,8 @@
 ﻿# SECTION 1 : PROJECT TITLE
 ## Aegis AI: Simplifying Travel Insurance with Intelligent Recommendations
 
-<img src="SystemCode/clips/static/hdb-bto.png"
-     style="float: left; margin-right: 0px;" />
+![Aegis AI Logo](https://github.com/DesmondChoy/IRS-PM-2025-05-02-GRP-40-Aegis_AI_RecSys/blob/74a9e4b90d90fb77dc18e2e5731bd877cd370960/Video/aegis_ai.png)
 
-[![Aegis AI Logo](https://github.com/DesmondChoy/mtech-policy-recsys/blob/e9aa2d7457650b1c6f675494213e18a724735b60/data/architecture.jpg)]
 ---
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
