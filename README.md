@@ -23,11 +23,11 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
-| :------------ |:---------------:| :-----| :-----|
-| Choy Yong Yi Desmond | A0315402W | - Project Manager<br>- System Design<br>- System Development & Implementation (Lead)<br>- Front-end UI webapp<br>- Project Report | e1510259@u.nus.edu |
-| Kenny Lau Jia Xu | A0179912U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| e0271067@u.nus.edu |
-| Kevin Manuel | A0315373H | - System Design<br>- System Development & Implementation<br>- Video (System)| e1509812@u.nus.edu |
-| Soon Fu Meng | A0140502B | - Policy Analysis<br>- Evaluation (PDF extraction & Comparison Report)<br>- Final Testing & Debugging<br>- Video<br>- Project Report  | fumengsoon@u.nus.edu |
+|:--- |:---:|:-----|:---:|
+| Choy Yong Yi Desmond | A0315402W | - Project Manager<br>- System Design<br>- System Development & Implementation (Lead)<br>- Evaluation (Targeted Scenarios)<br>- Testing & Debugging (Lead)<br>- Front-end UI webapp<br>- Project Report | e1510259@u.nus.edu |
+| Kenny Lau Jia Xu | A0179912U | - Data Collection<br>- Policy Analysis<br>- Evaluation (PDF extraction & Comparison Report)<br>- Video Production (Promotion, System)<br>- Project Report | e0271067@u.nus.edu |
+| Kevin Manuel | A0315373H | - System Design<br>- System Development & Implementation<br>- Evaluation (Ground Truth)<br>- Testing & Debugging<br>- Video Production (System)| e1509812@u.nus.edu |
+| Soon Fu Meng | A0140502B | - Policy Analysis<br>- Evaluation (PDF extraction & Comparison Report)<br>- Final Testing & Debugging<br>- Video Production (Promotion, System)<br>- Project Report  | fumengsoon@u.nus.edu |
 
 ---
 
