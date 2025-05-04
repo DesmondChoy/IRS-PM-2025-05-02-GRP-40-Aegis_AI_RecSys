@@ -35,11 +35,11 @@ The user-facing application for this system is named **Aegis AI**. The name draw
 
 ## Promotion Video
 
-[![Aegis AI Promotion Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Aegis AI Promotion Video")
+![Aegis AI Promotion Video](https://github.com/DesmondChoy/IRS-PM-2025-05-02-GRP-40-Aegis_AI_RecSys/blob/84314ebe56a26d08fbfd885d0244c9b42a37e94d/Video/video_promotion.png)
 
 ## System Video
 
-[![Aegis AI System Video](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Aegis AI Promotion Video")
+![Aegis AI System Video](https://github.com/DesmondChoy/IRS-PM-2025-05-02-GRP-40-Aegis_AI_RecSys/blob/84314ebe56a26d08fbfd885d0244c9b42a37e94d/Video/video_system.png)
 
 ---
 
